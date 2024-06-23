@@ -10,7 +10,9 @@ O tema de dele foi o que é inteligência artificial e como ela realmente funcio
 # Componentes do podcast🎙️
 
 [Imagem do podcast](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/Capa%20do%20podcast.png)
-[Audio sem música de fundo]()
+
+[Audio sem música de fundo](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/output/Audio_sintetizado.mp3)
+
 [Audio com música de fundo]()
 
 # Ferramentas utilizadas🛠️
