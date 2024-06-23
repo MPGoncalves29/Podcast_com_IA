@@ -1,6 +1,8 @@
 # Podcast_com_IA
 
- Esse repositório contém o audio e a imagem do podcast que fiz como atividade do #Santanderbootcamp de IA generativa! 🤖
+ Esse repositório contém os componentes do podcast que fiz como atividade do #Santanderbootcamp de IA generativa! 🤖
+
+[ Link do para ouvi-lo no Spotify](https://open.spotify.com/show/6uXMlUqpAmwvwem45FpT3J)
  
 
 # Tema
@@ -9,12 +11,15 @@ O tema de dele foi o que é inteligência artificial e como ela realmente funcio
 
 # Componentes do podcast🎙️
 
-[Imagem do podcast](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/Capa%20do%20podcast.png)
+[Imagem de capa](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/Capa%20do%20podcast.png)
 
 [Audio sem música de fundo](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/output/Audio_sintetizado.mp3)
 
-[Audio com música de fundo]()
+[Audio com música de fundo](https://github.com/MPGoncalves29/Podcast_com_IA/blob/main/output/Podcast_editado.MP3)
 
 # Ferramentas utilizadas🛠️
 
 Capcut/ChatGPT/ElevenLabs/Lexica.art.
+
+
+
